@@ -1,0 +1,27 @@
+Method:
+
+1. Method is a function
+2. method name should be followed by paranthesis()
+3. method name should be in camel case
+4. Method get executed when it is called.
+5. We need to call the method by it's name.
+
+
+Example:
+
+public class HelloWorld
+{
+    public static void main(String[]args)
+    {
+          first();
+        
+    }
+    
+    public static void first()
+    {
+      System.out.println("first");
+        
+        System.out.println("first1");
+    }
+    
+}
