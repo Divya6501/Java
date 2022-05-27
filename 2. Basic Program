@@ -1,0 +1,15 @@
+class Romeo
+{
+  
+  public static void main(String[]args)
+  {
+    System.out.println("Romeo");
+  }
+
+}
+
+
+1. First create a class
+2. Assign any name to class
+3. Declare main method
+4. Declare the method definition
