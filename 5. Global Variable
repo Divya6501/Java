@@ -1,0 +1,4 @@
+Global Variable:
+
+1. Global variables are declared at outside of the method
+2. Global variable can be accessed in anywhere in the any class.
