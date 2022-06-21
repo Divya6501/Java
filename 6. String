@@ -8,3 +8,6 @@ Important Point:
 Index value is starting from zero.
 
 
+Length()
+ The length() is used to find the nunber of characters in the String value
+ It is returns the integer value.
